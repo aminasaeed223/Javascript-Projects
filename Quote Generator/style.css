@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 100vh;
+}
+body{
+    background-color: #e8d0d0;
+}
+.quote{
+    background-color: #97c5cc;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 20px;
+    padding: 60px;
+}
+.quote button{
+    padding: 20px 30px;
+    margin-top: 20px;
+    border-radius: 7px;
+    color: rgb(25, 25, 243);
+    background-color: #7eeedf;
+
+}
+.quote button:hover{
+    background-color: #a7cce7;
+}
