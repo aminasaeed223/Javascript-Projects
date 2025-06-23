@@ -13,6 +13,7 @@ This is where I’ve been practicing JavaScript by building small, hands-on proj
 ## What’s Inside?
 
 Here’s a list of the projects I’ve worked on so far:
+
 | [**Currency Converter**](https://currencyconverter-navy-eight.vercel.app/) | Converts currency using real-time exchange rates and displays country flags using an external API. |
 
 | [**Tic Tac Toe**](https://tictactoe-xi-liart.vercel.app/) | A two-player game where X and O take turns until one wins or it’s a draw. Great for practicing game logic. |
